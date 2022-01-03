@@ -161,18 +161,6 @@
         "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
-    "20211222": {
-        "deskripsi": "Hari Ibu",
-        "dibuat": "20210826T115903Z",
-        "dimodifikasi": "20210826T115903Z",
-        "status": "CONFIRMED"
-    },
-    "20211224": {
-        "deskripsi": "Malam Natal",
-        "dibuat": "20210826T115927Z",
-        "dimodifikasi": "20210826T115927Z",
-        "status": "CONFIRMED"
-    },
     "20211225": {
         "deskripsi": "Hari Raya Natal",
         "dibuat": "20210826T115927Z",
@@ -183,12 +171,6 @@
         "deskripsi": "Cuti Bersama Natal (Hari Tinju)",
         "dibuat": "20210826T115917Z",
         "dimodifikasi": "20210826T115917Z",
-        "status": "CONFIRMED"
-    },
-    "20211231": {
-        "deskripsi": "Malam Tahun Baru",
-        "dibuat": "20210826T115903Z",
-        "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
     "20220101": {
