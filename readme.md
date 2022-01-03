@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/guangrei/Json-Indonesia-holidays/master/calendar.json
+https://raw.githubusercontent.com/ncr3w/Json-Indonesia-holidays/master/calendar.json
