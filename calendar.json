@@ -263,30 +263,12 @@
         "dimodifikasi": "20210826T115903Z",
         "status": "CONFIRMED"
     },
-    "20221222": {
-        "deskripsi": "Hari Ibu",
-        "dibuat": "20210826T115903Z",
-        "dimodifikasi": "20210826T115903Z",
-        "status": "CONFIRMED"
-    },
-    "20221224": {
-        "deskripsi": "Malam Natal",
-        "dibuat": "20210826T115927Z",
-        "dimodifikasi": "20210826T115927Z",
-        "status": "CONFIRMED"
-    },
     "20221225": {
         "deskripsi": "Hari Raya Natal",
         "dibuat": "20210826T115927Z",
         "dimodifikasi": "20210826T115927Z",
         "status": "CONFIRMED"
-    },
-    "20221231": {
-        "deskripsi": "Malam Tahun Baru",
-        "dibuat": "20210826T115917Z",
-        "dimodifikasi": "20210826T115917Z",
-        "status": "CONFIRMED"
-    },
+        },
     "20230421": {
         "deskripsi": "Hari Kartini",
         "dibuat": "20210826T115927Z",
