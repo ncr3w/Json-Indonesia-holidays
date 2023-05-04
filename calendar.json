@@ -286,9 +286,27 @@
         "dibuat": "20230218T072614Z",
         "dimodifikasi": "20230218T072614Z",
         "status": "CONFIRMED"  
-        },
+    },
     "20230322": {
         "deskripsi": "Hari Suci Nyepi (Tahun Baru Saka)",
+        "dibuat": "20230322T072614Z",
+        "dimodifikasi": "20230322T072614Z",
+        "status": "CONFIRMED"   
+    },
+    "20230407": {
+        "deskripsi": "Wafat Isa Almasih",
+        "dibuat": "20230322T072614Z",
+        "dimodifikasi": "20230322T072614Z",
+        "status": "CONFIRMED"   
+    },
+    "20230422": {
+        "deskripsi": "Hari Raya Idul Fitri",
+        "dibuat": "20230322T072614Z",
+        "dimodifikasi": "20230322T072614Z",
+        "status": "CONFIRMED"   
+    },
+    "20230423": {
+        "deskripsi": "Hari Raya Idul Fitri",
         "dibuat": "20230322T072614Z",
         "dimodifikasi": "20230322T072614Z",
         "status": "CONFIRMED"   
