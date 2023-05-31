@@ -311,29 +311,48 @@
         "dimodifikasi": "20230322T072614Z",
         "status": "CONFIRMED"   
     },
-    "20231002": {
-        "deskripsi": "Hari Batik",
-        "dibuat": "20210826T115903Z",
-        "dimodifikasi": "20210826T115903Z",
+    "20230601": {
+        "deskripsi": "Hari Lahir Pancasila",
+        "dibuat": "20230529T115903Z",
+        "dimodifikasi": "20230529T115903Z",
         "status": "CONFIRMED"
     },
-    "20231112": {
-        "deskripsi": "Hari Ayah",
-        "dibuat": "20210826T115927Z",
-        "dimodifikasi": "20210826T115927Z",
+    "20230604": {
+        "deskripsi": "Hari Raya Waisak 2567 BE",
+        "dibuat": "20230529T115927Z",
+        "dimodifikasi": "20230529T115927Z",
         "status": "CONFIRMED"
     },
-    "20231125": {
-        "deskripsi": "Hari Guru",
-        "dibuat": "20210826T115927Z",
-        "dimodifikasi": "20210826T115927Z",
+    "20230629": {
+        "deskripsi": "Hari Raya Idul Adha 1444H",
+        "dibuat": "20230529T115927Z",
+        "dimodifikasi": "20230529T115927Z",
         "status": "CONFIRMED"
     },
-    "20231222": {
-        "deskripsi": "Hari Ibu",
-        "dibuat": "20210826T115903Z",
-        "dimodifikasi": "20210826T115903Z",
+    "20230719": {
+        "deskripsi": "Tahun Baru Islam 1445H",
+        "dibuat": "20230529T115903Z",
+        "dimodifikasi": "20230529T115903Z",
         "status": "CONFIRMED"
     },
     "created-at": "2022-01-02 04:01"
-}
+    },
+    "20230817": {
+        "deskripsi": "Hari Kemerdekaan Republik Indonesia",
+        "dibuat": "20230529T115903Z",
+        "dimodifikasi": "20230529T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20230928": {
+        "deskripsi": "Maulid Nabi Muhammad SAW",
+        "dibuat": "20230529T115903Z",
+        "dimodifikasi": "20230529T115903Z",
+        "status": "CONFIRMED"
+    },
+    "20231225": {
+        "deskripsi": "Hari Raya Natal",
+        "dibuat": "20230529T115903Z",
+        "dimodifikasi": "20230529T115903Z",
+        "status": "CONFIRMED"
+    },
+
