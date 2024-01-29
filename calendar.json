@@ -360,5 +360,110 @@
 		"dimodifikasi": "20230529T115903Z",
 		"status": "CONFIRMED"
 	},
-	"created-at": "2022-01-02 04:01"
+	TAMBAHAN :
+
+
+     "20240101": {
+        "deskripsi": "Tahun Baru 2024 Masehi",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240208": {
+        "deskripsi": "Isra Miraj Nabi Muhammad SAW",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240210": {
+        "deskripsi": "Tahun Baru Imlek 2575 Kongzili",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+         "status": "CONFIRMED"
+    },
+     "20240311": {
+        "deskripsi": "Hari Suci Nyepi Tahun Baru Saka 1946",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240329": {
+        "deskripsi": "Wafat Isa Al Masih",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240331": {
+        "deskripsi": "Hari Paskah",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+       "status": "CONFIRMED"
+    },
+     "20240410": {
+        "deskripsi": "Hari Raya Idul Fitri 1445 Hijriah",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240411": {
+        "deskripsi": "Hari Raya Idul Fitri 1445 Hijriah",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240501": {
+        "deskripsi": "Hari Buruh Internasional",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240509": {
+        "deskripsi": "Kenaikan Isa Al Masih",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240523": {
+        "deskripsi": "Hari Raya Waisak 2568 BE",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240601": {
+        "deskripsi": "Hari Lahir Pancasila",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240617": {
+        "deskripsi": "Hari Idul Adha 1445 Hijriah",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240707": {
+        "deskripsi": "Tahun Baru Islam 1446 Hijriah",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",,
+        "status": "CONFIRMED"
+    },
+     "20240817": {
+        "deskripsi": "Hari Kemerdekaan Republik Indonesia",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20240916": {
+        "deskripsi": "Maulid Nabi Muhammad SAW",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+     "20241225": {
+        "deskripsi": "Hari Raya Natal",
+        "dibuat": "20240129T115903Z",
+        "dimodifikasi": "20240129T115903Z",
+        "status": "CONFIRMED"
+    },
+    "created-at": "2024-01-29 11:15"
 }
